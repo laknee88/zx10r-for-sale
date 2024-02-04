@@ -64,7 +64,7 @@ Chain:
 ## Videos
 
 Cold Start:
-{{< video src="20240203_183603" type="video/webm" >}}
+{{< youtube rk4EaWN99Eg >}}
 
 Quick 500-ft Pull:
 {{< video src="video_2024-02-03_21-14-25" type="video/webm" >}}
