@@ -1,4 +1,4 @@
 baseURL = 'https://laknee88.github.io/'
 languageCode = 'en-us'
-title = 'ZX10R for sale'
-theme = "paperesque"
+title = '2023 ZX10R For Sale - $18,500'
+theme = ["hugo-video", "paperesque"]

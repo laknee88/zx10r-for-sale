@@ -1,8 +1,6 @@
-# 2023 ZX10R For Sale - $18,500
-
 Selling a lowered 2023 ZX-10R KRT Edition motorcycle. At time of writing, the bike has 1927 miles. The motorcycle has a 998CC inline four-cylinder engine, high-spec Brembo brakes, Ohlins rear suspension, and cruise control!
 
-Read below for a list of [modifications](#description), [pictures](#pictures), and a [cold-start video](#videos).
+Read below for a list of [modifications](#description), [pictures](#pictures), and [videos](#videos).
 
 ![Main Photo](/138.preview.jpg)
 
@@ -29,6 +27,12 @@ The motorcycle has 1927 miles and a full history of maintenance records. I purch
 Save for one scratch on the swing arm, the motorcycle is like-new. The bike has been garaged its whole life. In the rare cases that I have been caught in the rain, I lube the bike’s chain and wipe down the body with microfiber cloths. 
 
 Price is listed at 18,500 but I am open to negotiation. 
+
+## Contact Info
+
+Contact: Lesley-Ann Knee
+
+Email: laknee88@gmail.com
 
 ## Pictures
 
@@ -59,4 +63,8 @@ Chain:
 
 ## Videos
 
-![Cold Start Video](/20240203_183603.mp4)
+Cold Start:
+{{< video src="20240203_183603" type="video/webm" >}}
+
+Quick 500-ft Pull:
+{{< video src="video_2024-02-03_21-14-25" type="video/webm" >}}
