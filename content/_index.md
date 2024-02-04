@@ -37,29 +37,29 @@ Email: laknee88@gmail.com
 ## Pictures
 
 ### Overview
-![Overview Photo 1](/138.preview.jpg)
-![Overview Photo 2](/135.preview.jpg)
-![Overview Photo 3](/134.preview.jpg)
-![Overview Photo 4](/133.preview.jpg)
+![Overview Photo 1](138.preview.jpg)
+![Overview Photo 2](135.preview.jpg)
+![Overview Photo 3](134.preview.jpg)
+![Overview Photo 4](133.preview.jpg)
 
 ### Stunt Cage
-![Stunt Cage Photo 1](/1672.preview.jpg)
-![Stunt Cage Photo 2](/1681.preview.jpg)
-![Stunt Cage Photo 3](/1678.preview.jpg)
+![Stunt Cage Photo 1](1672.preview.jpg)
+![Stunt Cage Photo 2](1681.preview.jpg)
+![Stunt Cage Photo 3](1678.preview.jpg)
 
 ### Gauge Cluster & Controls
-![Controls Photo 1](/1668.preview.jpg)
-![Controls Photo 2](/1675.preview.jpg)
-![Controls Photo 3](/1670.preview.jpg)
-![Controls Photo 4](/1671.preview.jpg)
+![Controls Photo 1](1668.preview.jpg)
+![Controls Photo 2](1675.preview.jpg)
+![Controls Photo 3](1670.preview.jpg)
+![Controls Photo 4](1671.preview.jpg)
 
 # Tires
 Front Tire:
-![Front Tire](/1673.preview.jpg)
+![Front Tire](1673.preview.jpg)
 Rear Tire:
-![Rear Tire](/1682.preview.jpg)
+![Rear Tire](1682.preview.jpg)
 Chain:
-![Chain](/1683.preview.jpg)
+![Chain](1683.preview.jpg)
 
 ## Videos
 
