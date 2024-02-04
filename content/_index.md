@@ -2,7 +2,7 @@ Selling a lowered 2023 ZX-10R KRT Edition motorcycle. At time of writing, the bi
 
 Read below for a list of [modifications](#description), [pictures](#pictures), and [videos](#videos).
 
-![Main Photo](/138.preview.jpg)
+![Main Photo](138.preview.jpg)
 
 VIN: JKBZXVM1XPA004411
 
